@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{76186F9E-B378-4341-AEC8-C1916555B475}|tpmodul6_2311104078\\tpmodul6_2311104078.csproj|c:\\users\\naura\\documents\\kuliah\\semester 4\\konstruksi perangkat lunak\\modul 6\\tpmodul6_2311104078\\tpmodul6_2311104078\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{76186F9E-B378-4341-AEC8-C1916555B475}|tpmodul6_2311104078\\tpmodul6_2311104078.csproj|solutionrelative:tpmodul6_2311104078\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76186F9E-B378-4341-AEC8-C1916555B475}|tpmodul6_2311104078\\tpmodul6_2311104078.csproj|c:\\users\\naura\\documents\\kuliah\\semester 4\\konstruksi perangkat lunak\\modul 6\\tpmodul6_2311104078\\tpmodul6_2311104078\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76186F9E-B378-4341-AEC8-C1916555B475}|tpmodul6_2311104078\\tpmodul6_2311104078.csproj|solutionrelative:tpmodul6_2311104078\\sayatubevideo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SayaTubeVideo.cs",
+              "DocumentMoniker": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 6\\tpmodul6_2311104078\\tpmodul6_2311104078\\SayaTubeVideo.cs",
+              "RelativeDocumentMoniker": "tpmodul6_2311104078\\SayaTubeVideo.cs",
+              "ToolTip": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 6\\tpmodul6_2311104078\\tpmodul6_2311104078\\SayaTubeVideo.cs*",
+              "RelativeToolTip": "tpmodul6_2311104078\\SayaTubeVideo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T14:05:55.687Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 6\\tpmodul6_2311104078\\tpmodul6_2311104078\\Program.cs",
               "RelativeDocumentMoniker": "tpmodul6_2311104078\\Program.cs",
-              "ToolTip": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 6\\tpmodul6_2311104078\\tpmodul6_2311104078\\Program.cs",
-              "RelativeToolTip": "tpmodul6_2311104078\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Naura\\Documents\\KULIAH\\SEMESTER 4\\Konstruksi Perangkat Lunak\\MODUL 6\\tpmodul6_2311104078\\tpmodul6_2311104078\\Program.cs*",
+              "RelativeToolTip": "tpmodul6_2311104078\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T13:18:04.125Z",
               "EditorCaption": ""

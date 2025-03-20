@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿class Program
+{
+    static void Main()
+    {
+        SayaTubeVideo video = new SayaTubeVideo("Tutorial Design By Contract - Naura Aisha Zahira");
+        video.IncreasePlayCount(100);
+        video.PrintVideoDetails();
+    }
+}
